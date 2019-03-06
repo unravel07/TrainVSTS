@@ -1,3 +1,4 @@
+using System;
 namespace NSOVarTestAPI.Models
 {
     public class model1
