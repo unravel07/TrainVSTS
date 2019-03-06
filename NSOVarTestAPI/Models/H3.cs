@@ -1,6 +1,8 @@
+using System;
+
 namespace NSOVarTestAPI.Models
 {
-    public class H3
+    public class CLASSH3
     {
         public int H3 { get; set; }
         public int A1 { get; set; }

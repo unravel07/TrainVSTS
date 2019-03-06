@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace NSOVarTestAPI.Models
 {
     public class SN1P2
@@ -20,7 +23,7 @@ namespace NSOVarTestAPI.Models
         public int H1_3 { get; set; }
         public object N { get; set; }
         public int H1_4 { get; set; }
-        public List<H3> H3 { get; set; }
+        public List<CLASSH3> H3 { get; set; }
         public int Ncount { get; set; }
         public int saveVersion { get; set; }
         public int version { get; set; }

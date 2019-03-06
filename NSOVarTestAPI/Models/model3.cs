@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace NSOVarTestAPI.Models
 {
     public class model3
